@@ -1,4 +1,4 @@
-# Responsive Coffee Website
+# Responsive Hoobank Website
 
 - Responsive Hoobank Website Using React & Tailwind CSS.
 - Website deploy: [NETLIFY](https://resilient-chaja-6c102c.netlify.app/).
